@@ -44,3 +44,63 @@ http://81.30.162.115:8081/televsesvit/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/black-sea-tv.png", Черноморская ТРК
 http://91.240.85.2:8000/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/m1.png", M1 (Музыкальный)
+https://m1.smotret.tv/hls/m1_ua_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/m2.png", M2 (Музыка / Клипы)
+https://m2.smotret.tv/hls/m2_ua_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/megasport.png", Мега (Познавательный)
+https://mega.smotret.tv/hls/mega_ua_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/pixel-tv.png", Пиксель ТВ (Детский)
+https://pixel.smotret.tv/hls/pixel_ua_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/zoom.png", Zoom (Развлекательный)
+https://zoom.smotret.tv/hls/zoom_ua_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/k1.png", К1 (Сериалы / Шоу)
+https://k1.smotret.tv/hls/k1_ua_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/k2.png", К2 (Для женщин / Дизайн / Кухня)
+https://k2.smotret.tv/hls/k2_ua_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/enter-film.png", Энтер-фильм (Классика кино)
+https://enterfilm.smotret.tv/hls/enter_film_ua_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/uatv.png", FREEДОМ (Информационный)
+https://uatv.smotret.tv/hls/uatv_ru_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/hromadske-tv.png", Громадське ТВ
+https://hromadske.smotret.tv/hls/hromadske_ua_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/apostrophe-tv.png", Апостроф ТВ
+https://apostrophe.smotret.tv/hls/apostrophe_ua_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/1-bila-tserkva.png", БЦ ТВ (Белая Церковь)
+http://81.30.162.222:8081/bctv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/kyiv-tv.png", Киев ТВ (Столичный)
+http://stream.kievtv.com.ua:8081/hls/stream1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/tv5-zaporizhzhya.png", ТВ5 Запорожье
+http://91.240.85.2:8000/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/odesa-live.png", Odesa.live (Одесса)
+https://live.smotret.tv/hls/odesa_live_ua_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/pershiy-zaxidniy.png", Первый Западный
+http://194.44.200.2:8123/hls/zaxid.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/unian-tv.png", Униан ТВ (Новости / Спорт)
+https://unian.smotret.tv/hls/unian_ua_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/eko-tv.png", Эко ТВ (Познавательный)
+http://81.30.162.115:8081/ekotv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/hope-channel-ukraine.png", Надія ТВ (Семейный)
+http://81.30.162.115:8081/nadija/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/glas.png", Глас (Культура / История)
+http://81.30.162.115:8081/glas/index.m3u8
