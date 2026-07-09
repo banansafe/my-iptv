@@ -1,1 +1,31 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/11-marathon.png", 1+1 Марафон (Единые Новости)
+https://p.smotret.tv/hls/1plus1_ua_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/ictv.png", ICTV Марафон
+https://starlight.gcdn.co/ictv_hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/inter.png", Интер Марафон
+https://inter.smotret.tv/hls/inter_ua_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/suspilne-novyny.png", Суспільне Новини
+https://suspilne-news.smotret.tv/hls/suspilne_news_ua_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/suspilne-kyiv.png", Суспільне Київ
+https://suspilne-kyiv.smotret.tv/hls/suspilne_kyiv_ua_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/rada.png", Рада HD
+https://rada.smotret.tv/hls/rada_ua_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/24-kanal.png", 24 Канал
+https://24tv.smotret.tv/hls/24tv_ua_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/espreso-tv.png", Еспресо ТВ
+https://espreso.smotret.tv/hls/espreso_ua_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/pryamiy.png", Прямий HD
+https://pryamiy.smotret.tv/hls/pryamiy_ua_high.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/countries/ua/kanal-5.png", 5 Канал
+https://5tv.smotret.tv/hls/5tv_ua_high.m3u8
